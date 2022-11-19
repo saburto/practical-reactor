@@ -1,3 +1,5 @@
+package com.github.schananas.practical.reactor;
+
 import org.junit.jupiter.api.*;
 import org.reactivestreams.Subscription;
 import reactor.core.Exceptions;

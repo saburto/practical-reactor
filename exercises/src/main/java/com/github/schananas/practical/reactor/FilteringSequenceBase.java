@@ -1,3 +1,5 @@
+package com.github.schananas.practical.reactor;
+
 import reactor.core.publisher.Flux;
 
 import java.util.LinkedList;
